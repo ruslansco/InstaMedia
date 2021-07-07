@@ -1,5 +1,5 @@
 # InstaMedia
-Version 0.0.3
+
 Description: GUI program that allows download pictures, videos and other metadata from Instagram. 
 Modules: Instaloader, Tkinter.
 
