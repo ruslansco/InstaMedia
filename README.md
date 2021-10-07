@@ -1,6 +1,5 @@
 # InstaMedia
 
-Description: GUI program that allows download pictures, videos and other metadata from Instagram. 
-Modules: Instaloader, Tkinter.
+Desktop version of InstaMedia app that allows scraping media from instagram profiles via Instaloader. Program provides users control over features such as downloading profile posts, images, stories, comments and etc. from Instagram.
 
-![Capture111](https://user-images.githubusercontent.com/27319299/124699722-32011f00-dea0-11eb-85c8-871ec648e9a6.PNG)
+![instamedia](https://user-images.githubusercontent.com/27319299/136437992-ca52c226-a27c-4352-a83f-2574c38d89a8.png)
